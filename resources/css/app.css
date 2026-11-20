@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+    min-height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: 'DM Sans', sans-serif;
+    background: #F1F7F3;
+    color: #102D25;
+}
+
+button,
+input,
+textarea,
+select {
+    font: inherit;
+}
